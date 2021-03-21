@@ -1,0 +1,58 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\Nuvoton\BSP Library\NUC100SeriesBSP_CMSIS_v1.05.003\NuvotonPlatform_Keil\Sample\NUC1xx-LB_002\Test_PWM_Tone\Test_PWM_Tone.uvproj
+Project File Date:  12/30/2016
+
+<h2>Output:</h2>
+Build target 'Test_PWM_Tone'
+creating preprocessor file for Test_PWM_Tone.c...
+compiling Test_PWM_Tone.c...
+Test_PWM_Tone.c(426): warning:  #223-D: function "exit" declared implicitly
+Test_PWM_Tone.c(433): warning:  #223-D: function "exit" declared implicitly
+Test_PWM_Tone.c(917): warning:  #111-D: statement is unreachable
+Test_PWM_Tone.c(490): warning:  #550-D: variable "tGPIO_G" was set but never used
+linking...
+Program Size: Code=11048 RO-data=11128 RW-data=220 ZI-data=1188  
+User command #1: fromelf --bin ".\obj\Test_PWM_Tone.axf" --output ".\obj\Test_PWM_Tone.bin"
+User command #2: fromelf --text -c ".\obj\Test_PWM_Tone.axf" --output ".\obj\Test_PWM_Tone.txt"
+".\obj\Test_PWM_Tone.axf" - 0 Error(s), 4 Warning(s).
+Load "D:\\Nuvoton\\BSP Library\\NUC100SeriesBSP_CMSIS_v1.05.003\\NuvotonPlatform_Keil\\Sample\\NUC1xx-LB_002\\Test_PWM_Tone\\obj\\Test_PWM_Tone.AXF" 
+Build target 'Test_PWM_Tone'
+creating preprocessor file for Test_PWM_Tone.c...
+compiling Test_PWM_Tone.c...
+Test_PWM_Tone.c(426): warning:  #223-D: function "exit" declared implicitly
+Test_PWM_Tone.c(433): warning:  #223-D: function "exit" declared implicitly
+Test_PWM_Tone.c(917): warning:  #111-D: statement is unreachable
+Test_PWM_Tone.c(490): warning:  #550-D: variable "tGPIO_G" was set but never used
+linking...
+Program Size: Code=11048 RO-data=11128 RW-data=220 ZI-data=1188  
+User command #1: fromelf --bin ".\obj\Test_PWM_Tone.axf" --output ".\obj\Test_PWM_Tone.bin"
+User command #2: fromelf --text -c ".\obj\Test_PWM_Tone.axf" --output ".\obj\Test_PWM_Tone.txt"
+".\obj\Test_PWM_Tone.axf" - 0 Error(s), 4 Warning(s).
+Load "D:\\Nuvoton\\BSP Library\\NUC100SeriesBSP_CMSIS_v1.05.003\\NuvotonPlatform_Keil\\Sample\\NUC1xx-LB_002\\Test_PWM_Tone\\obj\\Test_PWM_Tone.AXF" 
+Build target 'Test_PWM_Tone'
+creating preprocessor file for Test_PWM_Tone.c...
+compiling Test_PWM_Tone.c...
+Test_PWM_Tone.c(426): warning:  #223-D: function "exit" declared implicitly
+Test_PWM_Tone.c(433): warning:  #223-D: function "exit" declared implicitly
+Test_PWM_Tone.c(490): warning:  #550-D: variable "tGPIO_G" was set but never used
+linking...
+Program Size: Code=11048 RO-data=11128 RW-data=220 ZI-data=1188  
+User command #1: fromelf --bin ".\obj\Test_PWM_Tone.axf" --output ".\obj\Test_PWM_Tone.bin"
+User command #2: fromelf --text -c ".\obj\Test_PWM_Tone.axf" --output ".\obj\Test_PWM_Tone.txt"
+".\obj\Test_PWM_Tone.axf" - 0 Error(s), 3 Warning(s).
+Load "D:\\Nuvoton\\BSP Library\\NUC100SeriesBSP_CMSIS_v1.05.003\\NuvotonPlatform_Keil\\Sample\\NUC1xx-LB_002\\Test_PWM_Tone\\obj\\Test_PWM_Tone.AXF" 
+Build target 'Test_PWM_Tone'
+creating preprocessor file for Test_PWM_Tone.c...
+compiling Test_PWM_Tone.c...
+Test_PWM_Tone.c(426): warning:  #223-D: function "exit" declared implicitly
+Test_PWM_Tone.c(433): warning:  #223-D: function "exit" declared implicitly
+Test_PWM_Tone.c(490): warning:  #550-D: variable "tGPIO_G" was set but never used
+linking...
+Program Size: Code=11048 RO-data=11128 RW-data=220 ZI-data=1188  
+User command #1: fromelf --bin ".\obj\Test_PWM_Tone.axf" --output ".\obj\Test_PWM_Tone.bin"
+User command #2: fromelf --text -c ".\obj\Test_PWM_Tone.axf" --output ".\obj\Test_PWM_Tone.txt"
+".\obj\Test_PWM_Tone.axf" - 0 Error(s), 3 Warning(s).
